@@ -1,7 +1,5 @@
 # Auto Scaling Alchemy: Crafting AWS Infrastructure with Terraform and Launch Templates
 
-![Auto Scaling Alchemy: Crafting AWS Infrastructure with Terraform and Launch Templates - Thumbnail](/architecture-diagram/YT-Thumbnail- AWS%20VPC,%20EC2,%20ALB%20and%20ASG%20LT%20with%20Terraform%20thumbnail.png)
-
 ---
 
 ## Architecture Diagram
